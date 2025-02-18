@@ -20,8 +20,8 @@ What I'm Currently Doing
 
 🔭 I’m currently open to job opportunities.
 💻 Most used line of code: git commit -m "Initial Commit"
-🤔 I’m looking for help with outstanding video ideas.
-📫 How to reach me: uccodetech@gmail.com
+🤔 I’m looking for help with outstanding video ideas of DATA SCIENCE.
+📫 How to reach me: keketsolehloenya516@gmail.com
 😄 Pronouns: CoderOne, Ipenywis, Islempenywis.
 ⚡ Fun fact: I Learn Technologies and go to the gym very often.
 Top Technologies
